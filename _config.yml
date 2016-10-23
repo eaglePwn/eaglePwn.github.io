@@ -1,0 +1,21 @@
+title: pwn_expoit
+email: mashirogod@gmail.com
+
+twitter_username: pwn_expoit
+github_username:  eaglePwn
+facebook_username: pwn_expoit
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "tables"]
+
+highlighter: pygments
+
+permalink: pretty
+
+safe: true
+lsi: true
+
+gems:
+  - jekyll-redirect-from
+  - jemoji
